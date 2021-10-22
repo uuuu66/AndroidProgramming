@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">뉴원</string>
+    <string name="button">1414023</string>
+    <string name="button2">히히</string>
+    <string-array name="foods">
+        <item >만두</item>
+        <item>피자</item>
+    </string-array>
+</resources>

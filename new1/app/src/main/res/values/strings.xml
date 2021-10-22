@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">new1</string>
+    <string name="button">1414028</string>
+    <string name="button2"> ho</string>
+    <string-array name="foods">
+        <item >mandu</item>
+        <item>pizza</item>
+    </string-array>
+</resources>

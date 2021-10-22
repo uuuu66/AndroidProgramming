@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="android_wiki">과제입니다. 가나다라마바사아자차카타파하 별이 떨어진다!</string>
+    <string name="input_your_name">이름을 입력하세요</string>
+    <string name="cat">"고양이 "</string>
+    <string name="dog">강아지</string>
+    <string name="button">버튼</string>
+</resources>

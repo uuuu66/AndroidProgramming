@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="android_wiki"> It is homework example. abcdefghijklmnoprstuvwxyz.star is coming! </string>
+    <string name="input_your_name">Input your name.</string>
+    <string name="cat">cat</string>
+    <string name="dog">dog</string>
+    <string name="button">button</string>
+</resources>
